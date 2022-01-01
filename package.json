@@ -1,0 +1,22 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass styles/sass/main.scss styles/css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alish-tab/Shopping-cart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alish-tab/Shopping-cart/issues"
+  },
+  "homepage": "https://github.com/Alish-tab/Shopping-cart#readme",
+  "devDependencies": {
+    "sass": "^1.45.2"
+  }
+}
